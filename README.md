@@ -70,6 +70,10 @@
 - https://github.com/yuanguangxin/LeetCode
 - https://github.com/billryan/algorithm-exercise
 - https://github.com/SeanPrashad/leetcode-patterns
+- https://github.com/yangshun/tech-interview-handbook
+- https://github.com/jwasham/coding-interview-university
+- https://github.com/MaximAbramchuck/awesome-interview-questions
+- https://github.com/yangshun/front-end-interview-handbook
 
 
 
