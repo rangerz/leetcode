@@ -68,11 +68,11 @@
 ### Algorithms
 
 - https://github.com/labuladong/fucking-algorithm
-- https://github.com/TheAlgorithms/Python
 - https://github.com/geekxh/hello-algorithm
 - https://github.com/trekhleb/javascript-algorithms
 - https://github.com/greyireland/algorithm-pattern
 - https://github.com/billryan/algorithm-exercise
+- https://github.com/TheAlgorithms/
 
 
 
@@ -106,9 +106,4 @@
 - https://www.educative.io/courses/grokking-the-system-design-interview
 - https://www.interviewbit.com/practice/
 
-
-
-### Object-Oriented Programming
-
-- TODO
 
