@@ -59,6 +59,3 @@ class Solution:
                 res = max(res, len(chars))
 
         return res
-
-
-

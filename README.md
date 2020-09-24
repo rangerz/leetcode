@@ -85,6 +85,7 @@
 - https://github.com/jwasham/coding-interview-university
 - https://github.com/MaximAbramchuck/awesome-interview-questions
 - https://github.com/yangshun/front-end-interview-handbook
+- https://github.com/rohan-paul/Awesome-JavaScript-Interviews
 - https://wdxtub.com/interview/ - 小土刀的面试刷题笔记
 
 

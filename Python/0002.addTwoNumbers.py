@@ -1,6 +1,7 @@
 """
 https://leetcode.com/problems/add-two-numbers/
 
+Example:
 Input: (2 -> 4 -> 3) + (5 -> 6 -> 4)
 Output: 7 -> 0 -> 8
 Explanation: 342 + 465 = 807.
@@ -13,7 +14,7 @@ Explanation: 342 + 465 = 807.
 #         self.next = next
 class Solution:
 
-    # 1.
+    # 1. Straight
     # Time: O(n)
     # Space: O(1)
     def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
@@ -37,6 +38,7 @@ class Solution:
 
         return dummy.next
 
+
     # 2. Recursive
     # Time: O(n)
     # Space: O(1)
@@ -52,4 +54,3 @@ class Solution:
             res.next = self.addTwoNumbers(res.next, ListNode(1))
 
         return res
-
